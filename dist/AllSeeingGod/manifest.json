@@ -1,0 +1,9 @@
+{
+  "name": "REPO_AllSeeingGod",
+  "version_number": "1.0.5",
+  "website_url": "https://github.com/tomacx/REPO-AllSeeingGod",
+  "description": "Configurable god mode, enhanced health and stamina, an always-on native minimap, plus enemy and valuable markers for R.E.P.O.",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2305"
+  ]
+}
